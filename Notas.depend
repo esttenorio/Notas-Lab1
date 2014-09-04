@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1409799412 source:/home/esttenorio8/Dropbox/Ubuntu/Labo de Progra/New folder/Notas/Notas.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<mysql_connection.h>
+	<cppconn/driver.h>
+	<cppconn/resultset.h>
+	<cppconn/statement.h>
+	<cppconn/exception.h>
+
