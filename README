@@ -1,1 +1,8 @@
 Se adjunta codigo en c++ y archivo .csv
+
+Hasta el momento lee el .csv y lo guarda en un vector.
+
+Luego guarda el vector en una base de datos ya existente llamada "notas"
+y crea una tabla "registro".
+
+De momento para no procesar los 19999 datos de nota solo se estan analizando 100.
